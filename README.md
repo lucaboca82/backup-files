@@ -176,3 +176,6 @@ to = me@host.com
 ## License
 
 GPL © Luca Bocaletto (`bocaletto-luca`)
+## Co-Authors
+
+- **Luca Bocaletto** (`bocaletto-luca`) – co-author
